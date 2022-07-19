@@ -1,0 +1,32 @@
+div{
+    color:rgb(133, 185, 140)
+}
+
+#div1 {
+    color: rgb(117, 37, 133);
+}
+
+#div2 {
+ color: rgb(163, 62, 62);
+}
+
+#unorder-List{
+ color: blueviolet;
+}
+#order-list{
+
+}
+.large-font{
+    font-size: 2rem;
+}
+.deep-background{
+    background-color: brown;
+
+    font-size: 4rem;
+}
+.version{
+    background-color: aquamarine;
+    color: coral;
+    padding: 2px 10px;
+    border-radius: 10px;
+}
